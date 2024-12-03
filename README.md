@@ -5,3 +5,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 ## Lists of task
 - [DAY1](/DAY1/) - total distance and similarity score of two lists of numbers; \
 <b>skills</b>: simple lists operations
+- [DAY2](/DAY2/) - checking safety of reports; \
+<b>skills</b>: list operations related to sorting elements
+- [DAY3](/DAY3/) - multiplications in corrupted memory; \
+<b>skills</b>: regular expressions 
