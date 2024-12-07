@@ -9,3 +9,5 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 <b>skills</b>: list operations related to sorting elements
 - [DAY3](/DAY3/) - multiplications in corrupted memory; \
 <b>skills</b>: regular expressions 
+- [DAY4 (part one)](/DAY4/) - something like word search game; \
+<b>skills</b>: letter matrix operations
